@@ -11,7 +11,5 @@ spec:
     path: apps
     repoURL: https://github.com/davgordo/gitops-cluster-bvwfc.git
     targetRevision: HEAD
-    directory:
-      recurse: false
   syncPolicy:
     automated: {}

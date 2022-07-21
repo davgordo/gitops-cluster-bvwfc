@@ -11,7 +11,5 @@ spec:
     path: envs/qa
     repoURL: https://github.com/RHC-STP-OSSM/gitops-app-bookinfo.git
     targetRevision: HEAD
-    directory:
-      recurse: false
   syncPolicy:
     automated: {}
