@@ -6,4 +6,4 @@ resources:
   - https://github.com/RHC-STP-OSSM/GitOps-OSSM/openshift-distributed-tracing-operator/overlays/stable
   - https://github.com/RHC-STP-OSSM/GitOps-OSSM/kiali-operator/overlays/stable
   - https://github.com/RHC-STP-OSSM/GitOps-OSSM/openshift-servicemesh/operator/overlays/stable
-  - https://github.com/RHC-STP-OSSM/GitOps-OSSM/openshift-servicemesh/instance/overlays/default
+  - https://github.com/RHC-STP-OSSM/GitOps-OSSM/openshift-servicemesh/instance/overlays/v2.2
